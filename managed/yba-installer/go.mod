@@ -12,9 +12,9 @@ require (
 	github.com/vmware-labs/yaml-jsonpath v0.3.2
 	github.com/xeipuuv/gojsonschema v1.2.0
 	go.etcd.io/etcd v3.3.27+incompatible
-	golang.org/x/crypto v0.0.0-20220411220226-7b82a4e95df4
+	golang.org/x/crypto v0.17.0
 	golang.org/x/exp v0.0.0-20221217163422-3c43f8badb15
-	golang.org/x/sys v0.4.0
+	golang.org/x/sys v0.15.0
 	gopkg.in/yaml.v3 v3.0.1
 	sigs.k8s.io/yaml v1.3.0
 )
@@ -38,9 +38,7 @@ require (
 	github.com/subosito/gotenv v1.3.0 // indirect
 	github.com/xeipuuv/gojsonpointer v0.0.0-20180127040702-4e3ac2762d5f // indirect
 	github.com/xeipuuv/gojsonreference v0.0.0-20180127040603-bd5ef7bd5415 // indirect
-	golang.org/x/net v0.5.0 // indirect
-	golang.org/x/term v0.4.0 // indirect
-	golang.org/x/text v0.6.0 // indirect
+	golang.org/x/text v0.14.0 // indirect
 	gopkg.in/ini.v1 v1.66.4 // indirect
 	gopkg.in/yaml.v2 v2.4.0 // indirect
 )
